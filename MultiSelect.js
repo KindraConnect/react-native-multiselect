@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import { ListView, FlatList, SectionList } from 'react-native';
 import MultiSelectRow from './MultiSelectRow';
 
